@@ -38,4 +38,4 @@ yarn-error.log*
 /services/firebaseClient.js
 /services/firebaseAdmin.js
 /services/firebase.js
-secrets.json
+finapp-6eb19-firebase-adminsdk-n1bmb-4c9552214d.json
