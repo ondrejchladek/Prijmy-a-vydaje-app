@@ -63,8 +63,8 @@ const TransactionList = (props) => {
                                     <div className={styles.transactionTop}>
                                         <div
                                             style={{
-                                                marginRight: "100px",
-                                                width: "100px",
+                                                marginRight: "40px",
+                                                width: "250px",
                                             }}>
                                             <b
                                                 style={{

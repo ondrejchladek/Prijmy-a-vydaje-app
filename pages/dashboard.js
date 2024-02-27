@@ -103,7 +103,7 @@ export default function Dashboard({ session }) {
                             </div>
                         )}
                         <div style={{ marginTop: "50px" }}>
-                            <b className={styles.subtitle}>Analytické shrnutí</b>
+                            <b className={styles.subtitle}>Přehledy</b>
                             {currentUserUID != null ? (
                                 <div>
                                     <IncomeChart

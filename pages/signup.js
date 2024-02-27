@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/firestore";
-import initFirebase from "../services/firebase";
+import initFirebase from "../services/firebaseClient";
 import Router from "next/router";
 
 initFirebase();

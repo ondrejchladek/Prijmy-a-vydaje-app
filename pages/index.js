@@ -23,11 +23,7 @@ export default function Home() {
             <div>
                 <h1 className={styles.title}>Vítejte v aplikaci Přijmy a výdaje!</h1>
                 <div className={styles.logoWrapper}>
-                    <img
-                        className={styles.logo}
-                        src="logo.png"
-                        alt="App-Logo"
-                    />
+
                 </div>
                 <h4 className={styles.phrase}>
                     Přihlašte se prosím nebo si zaregistrujte účet
