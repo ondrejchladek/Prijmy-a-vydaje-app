@@ -4,12 +4,12 @@
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(#4083E6,#0645A3);
+  background: linear-gradient(#EEEEEE,#AAAAAA);
   font-family: Helvetica;
 }
 .title {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-size:70px;
   margin-top: 7%;
   margin-bottom: 3%;
@@ -263,12 +263,12 @@
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(#4083E6,#0645A3);
+  background: linear-gradient(#EEEEEE,#AAAAAA);
   font-family: Helvetica;
 }
 .title {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-size:70px;
   margin-top: 7%;
   margin-bottom: 3%;

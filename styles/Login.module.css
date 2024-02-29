@@ -6,12 +6,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(#4083E6,#0645A3);
+  background: linear-gradient(#EEEEEE,#AAAAAA);
   font-family: Helvetica;
 }
 .title {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   margin-top: 5%;
   margin-bottom: 5%;
   font-size: 70px;
@@ -73,7 +73,7 @@
 }
 .title {
   margin-top: 5%;
-  margin-bottom: 20%;
+  margin-bottom: 5%;
   font-size: 40px;
 }
 .Form{
@@ -130,7 +130,7 @@
 }
 .title {
   margin-top: 5%;
-  margin-bottom: 20%;
+  margin-bottom: 5%;
   font-size: 40px;
 }
 .Form{
@@ -187,7 +187,7 @@
 .title {
   width: 90%;
   margin-top: -5%;
-  margin-bottom: 15%;
+  margin-bottom: 5%;
   margin-left: 5%;
 }
 .Form{
@@ -246,14 +246,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(#4083E6,#0645A3);
+  background: linear-gradient(#EEEEEE,#AAAAAA);
   font-family: Helvetica;
 }
 .title {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   margin-top: 5%;
-  margin-bottom: 20%;
+  margin-bottom: 5%;
   font-size: 80px;
 }
 .Form{

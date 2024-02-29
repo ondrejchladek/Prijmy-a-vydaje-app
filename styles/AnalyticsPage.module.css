@@ -6,7 +6,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(#4083E6,#0645A3);
+  background: linear-gradient(#EEEEEE,#AAAAAA);
   font-family: Helvetica;
   overflow-x: hidden;
   padding-left: 2%;
@@ -272,7 +272,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(#4083E6,#0645A3);
+  background: linear-gradient(#EEEEEE,#AAAAAA);
   font-family: Helvetica;
   overflow-x: hidden;
   padding-left: 2%;
