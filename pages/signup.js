@@ -39,9 +39,9 @@ export default function SignUpPage() {
             const db = firebase.firestore();
 
             db.collection("users").doc(currentUser.uid).set(user);
-            console.log(`${Name} has been registered.`);
+            console.log(`${Name} byl registrován.`);
         } catch (err) {
-            alert("Something went wrong!", err.message);
+            alert("Něco je asi špatně!", err.message);
             console.log(err.message);
         }
     }
@@ -68,7 +68,7 @@ export default function SignUpPage() {
     return (
         <main className={styles.container}>
             <Head>
-                <title>Sign up | CashFlow</title>
+                <title>Registrace | Přijmy a výdaje</title>
                 <link rel="icon" href="/favicon.ico" />
                 <meta name="theme-color" content="#4083E6" />
                 <meta

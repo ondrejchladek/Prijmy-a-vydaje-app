@@ -31,7 +31,7 @@ export default function LoginPage() {
             console.log(`logged in as ${user.email}`);
             Router.push("/dashboard");
         } catch (err) {
-            alert("Something went wrong!", err.message);
+            alert("Něco je asi špatně!", err.message);
             console.log(`Error: ${err.message}`);
         }
     }
